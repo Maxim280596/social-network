@@ -1,0 +1,22 @@
+.content {
+    grid-area: c;
+    background-color: pink;
+    border-radius: 10px;
+    font-size: 20px;
+   
+  }
+.content div {
+  text-align: center;
+}  
+  
+  .content img {
+    width: 1000px;
+    height: 200px;
+    border-radius: 10px;
+  }
+
+.item {
+    color: green;
+    
+    
+}  
